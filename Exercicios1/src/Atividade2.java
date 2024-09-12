@@ -18,8 +18,10 @@ public class Atividade2 {
             }
         } else {
             System.out.println("Um e verdadeiro o outro e falso");
+
+
         }
 
     }
-
 }
+
